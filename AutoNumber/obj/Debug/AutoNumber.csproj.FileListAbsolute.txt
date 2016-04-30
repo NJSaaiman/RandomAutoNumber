@@ -1,0 +1,19 @@
+c:\users\nsaaiman\documents\visual studio 2012\Projects\AutoNumber\AutoNumber\bin\Debug\AutoNumber.exe.config
+c:\users\nsaaiman\documents\visual studio 2012\Projects\AutoNumber\AutoNumber\bin\Debug\AutoNumber.exe
+c:\users\nsaaiman\documents\visual studio 2012\Projects\AutoNumber\AutoNumber\bin\Debug\AutoNumber.pdb
+c:\users\nsaaiman\documents\visual studio 2012\Projects\AutoNumber\AutoNumber\obj\Debug\AutoNumber.csprojResolveAssemblyReference.cache
+c:\users\nsaaiman\documents\visual studio 2012\Projects\AutoNumber\AutoNumber\obj\Debug\AutoNumber.Form1.resources
+c:\users\nsaaiman\documents\visual studio 2012\Projects\AutoNumber\AutoNumber\obj\Debug\AutoNumber.Properties.Resources.resources
+c:\users\nsaaiman\documents\visual studio 2012\Projects\AutoNumber\AutoNumber\obj\Debug\AutoNumber.csproj.GenerateResource.Cache
+c:\users\nsaaiman\documents\visual studio 2012\Projects\AutoNumber\AutoNumber\obj\Debug\AutoNumber.exe
+c:\users\nsaaiman\documents\visual studio 2012\Projects\AutoNumber\AutoNumber\obj\Debug\AutoNumber.pdb
+H:\projects\AutoNumber\AutoNumber\bin\Debug\AutoNumber.exe.config
+H:\projects\AutoNumber\AutoNumber\obj\Debug\AutoNumber.exe
+H:\projects\AutoNumber\AutoNumber\obj\Debug\AutoNumber.pdb
+H:\projects\AutoNumber\AutoNumber\bin\Debug\AutoNumber.exe
+H:\projects\AutoNumber\AutoNumber\bin\Debug\AutoNumber.pdb
+H:\projects\AutoNumber\AutoNumber\obj\Debug\AutoNumber.csprojResolveAssemblyReference.cache
+H:\projects\AutoNumber\AutoNumber\obj\Debug\AutoNumber.Form1.resources
+H:\projects\AutoNumber\AutoNumber\obj\Debug\AutoNumber.Properties.Resources.resources
+H:\projects\AutoNumber\AutoNumber\obj\Debug\AutoNumber.csproj.GenerateResource.Cache
+H:\projects\AutoNumber\AutoNumber\bin\Debug\fonts\digital-7.ttf
